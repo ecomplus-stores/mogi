@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3b8aa2c726379d17e93b2af6f166b7d1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9729d2ec4587ae0bf282ef0101bf3d0e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.1849e01dae1d62afb0365ef2d3820775.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a77741595389a919107cee75abc99d3b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9f48154c3158824b3796794d0032f09d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MOGI",
+  "short_name": "MOGI",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Descubra a arte de criar o gin perfeito com nossos kits exclusivos, selecionados para proporcionar uma experiência única e refinada a cada gole.",
+  "background_color": "#ffffff",
+  "theme_color": "#f69401"
+}
